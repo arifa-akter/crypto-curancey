@@ -1,0 +1,11 @@
+.icon{
+    padding: 13px 13px;
+    font-size: 13px;
+    background: #022930;
+    color: #ffffff;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}

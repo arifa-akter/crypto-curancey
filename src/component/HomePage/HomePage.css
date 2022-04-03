@@ -1,0 +1,11 @@
+.button{
+    margin-top:20px;
+    padding: 5px 10px;
+    color:#ffffff;
+    background: #022930;
+    border-radius:49px;
+    -webkit-border-radius:49px;
+    -moz-border-radius:49px;
+    -ms-border-radius:49px;
+    -o-border-radius:49px;
+}
